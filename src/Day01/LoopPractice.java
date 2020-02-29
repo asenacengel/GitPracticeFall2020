@@ -8,5 +8,6 @@ public class LoopPractice {
         }
 
         System.out.println("args = " + args);
+        System.out.println("blabla");
     }
 }
