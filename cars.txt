@@ -5,3 +5,5 @@ Audi R8
 Tesla
 Mercedes S500
 Kia Optima
+Lexus GX470
+Subaru
