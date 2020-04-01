@@ -7,3 +7,6 @@ Mercedes S500
 Kia Optima
 Lincoln MKS
 Honda Civic
+Lexus GX470
+Subaru
+Range Rover Velar
